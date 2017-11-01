@@ -11,7 +11,7 @@ import { HeroesComponent } from './heroes/heroes.component';
 
 import {HeroService} from './hero/hero.service';
 
-import {AppRoutingModule} from './app-routing/app-routing.module';
+import {AppRoutingModule} from './app-routing.module';
 
 @NgModule({
   imports: [
